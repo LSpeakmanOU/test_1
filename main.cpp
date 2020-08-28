@@ -19,6 +19,8 @@ int main() /// ENTRY POINT
     cout << "Input age" << endl;
     cin >> age; 
     cout << "You are " << age << " years old." << endl;
+    cout << "THE END" << endl;
+
     /// END
     return 0;
 }
